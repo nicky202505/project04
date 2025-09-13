@@ -18,21 +18,37 @@ background-color: #fff ; }    /* 백그라운드 */
 width : 100% ; 
 max-width : 860px ;  
 margin : 0 auto ; 
-height : auto ;  /* auto로 변경 */ 
+height : auto ;  /* auto로 변경 */   
 } 
 
+.sec02 {
+width : 100% ;     
+max-width : 860px ;  
+margin : 0 auto ; 
+height :1200px ;  /* auto로 변경 */     
+background-image:url(img/sec02.png)  ;  
+padding-top: 270px ;
+}
+
+.gif{
+    width : 754px ; 
+    height : 487px ;   
+    margin : auto ;     
+    o
+}
+
+.gif img {
+    width : 100% ; 
+    height : 100% ; 
+}
+
 .sec01 img, 
-.sec02 img, .sec03 img, .sec04 img, .sec05 img, .sec06 img,  .sec07 img,  .sec08 img   
+.sec03 img, .sec04 img, .sec05 img, .sec06 img,  .sec07 img,  .sec08 img   
 {width: 100% ; 
  height: auto ;   
  }
     
-.sec02 {
-width : 100% ; 
-max-width : 860px ;  
-margin : 0 auto ; 
-height : auto ;  /* auto로 변경 */ 
-} 
+
 
 .sec03 {
 width : 100% ; 
