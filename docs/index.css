@@ -1,16 +1,84 @@
 
 
+*{
+    margin: 0 ; 
+    padding : 0 ; 
+} 
+
+
+
 .background
 {width : 100% ; 
-    max-width : 860px ;  
-    height : 10000px ; 
-    margin : 0 auto ; 
-    background-color: #e6d9d9;}    /* 백그라운드 */ 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : 20000px ;  
+background-color: #fff ; }    /* 백그라운드 */ 
 
+.sec01 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
 
-
+.sec01 img, 
+.sec02 img, .sec03 img, .sec04 img, .sec05 img, .sec06 img,  .sec07 img,  .sec08 img   
+{width: 100% ; 
+ height: auto ;   
+ }
     
+.sec02 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
 
+.sec03 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : 2360px;  /* auto로 변경 */   
+} 
+
+.sec04 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
+
+.sec05 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
+.sec06 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
+.sec06 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
+
+.sec07 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
+.sec08 {
+width : 100% ; 
+max-width : 860px ;  
+margin : 0 auto ; 
+height : auto ;  /* auto로 변경 */ 
+} 
 
 
 
